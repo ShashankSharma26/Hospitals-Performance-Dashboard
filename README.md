@@ -1,6 +1,6 @@
 # Hospitals-Performance-Dashboard
 
-## Link to dashboard: https://bit.ly/hospital_dashborad
+## Link to dashboard: https://bit.ly/hospital_dashboard
 
 
 This dashboard made using R shiny shows the performance of 'Hospital A' and how it compares to other hospitals. The data is pretty straight forward, it has the following three columns:
